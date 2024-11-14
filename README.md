@@ -67,7 +67,6 @@ Total deals: 0
 |  ⭐ | [Aptakube](https://aptakube.com) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
 |  ⭐ | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 
-
 [⬆️ Go to Top](#table-of-contents)
 
 ### 💻 Tools & Services
@@ -90,7 +89,6 @@ Total deals: 0
 |  ⚡ | [BoltAI](https://boltai.com?via=awesomebf) | Access all AI models in one _native_ Mac app. Switch between top AI services and local models. All from a single app on your Mac. | 30% OFF with code **BFCM2024** |
 |  ⭐ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF  |
 |  ⭐ | [Zen AI](https://design.getzenai.com/) | Automate your daily prompts with an easy-to-use workflow AI. | 50% OFF with code **BLACKFRIDAY2024** |
-|  📝 | [Writers Brew AI](https://writersbrew.app/) | #1 AI Writing app. An AI writing assistant app that works across your macOS | Bundle upto 60% OFF  |
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -149,9 +147,7 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [Marmo UI](https://www.marmoui.com) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project. | 70% OFF with code **BLACKFRIDAY24** |
-|  🧐 | [Observely](https://www.observely.app) | Observely is an app for building personal dashboards. It's a productivity tool that combines various tools, apps, and feeds into a single dashboard. An example would be a Dashboard with your favorite newsfeeds, newsletter reader, notes (including voice notes), todos, bookmarks, calendars, timezones tool, AI Chat, and more... | 70% OFF with code **BLACKBLACK24** |
-|  🧘‍♂️ | [Zen Mode macOS](https://zenmode.app/) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF |
-|  🧘‍♂️ | [Spaces macOS](https://spacesformac.xyz/) | Declutter & organize your workspace on macOS in one single click 🎊 | Bundle Lifetime 50% OFF |
+|  ⭐ | [NoteSLAYER](https://note-slayer.com/) | Note SLAYER: Advanced note-taking & task management for Desktop (Linux, Windows and MacOS). | 50% OFF with code **BLACKFRIDAY24** |
 
 
 
@@ -191,7 +187,6 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ✅ | [Trio: Mindful ToDo List App](https://apps.apple.com/redeem?ctx=offercodes&id=6636491845&code=BF24) | Your path to Mindful Productivity. Simplify, Focus, Achieve 🚀. Focus on just three key tasks daily to drive meaningful progress and maintain balance in your life. | 80% off for your first year with all Pro features! With code **BF24** |
-|  ⏩ | [Quick Capture - Supasend](https://apps.apple.com/in/app/quick-capture-supasend/id6504688166) | Quickly capture your notes instantly in your second brain apps like Obsidian, Notion and Email 🧠 | Lifetime 50% OFF |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -257,7 +252,6 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 | 💰 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-first, open source dashboard for your personal finances. Designed to simplify asset tracking and empower informed investment decisions. | $5 OFF on the annual Ghostfolio Premium subscription |
-|  💵 | [(Budget Zen)](https://budgetzen.net) | Simple and End-to-End Encrypted Budget & Expenses Manager. | 50% OFF on the annual subscription with code **FRIDAY24** |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -337,7 +331,6 @@ Total deals: 0
 |  | Name | Description | Discount Code & Terms |
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
-|  ⭐ | [The Python Coding Book](https://thepythoncodingplace.thinkific.com/enroll/2906653?coupon=black2024) | A friendly and relaxed Python programming book for beginners. Google "Python book" and you'll find it! | 40% OFF applied automatically |
 
 
 [⬆️ Go to Top](#table-of-contents)
@@ -360,7 +353,6 @@ Total deals: 0
 | -- | ---| ------ | ------ |
 |  ⭐ | [(Example entry)](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  ⭐ | [The Google Ads Quickstart Guide For Indie Hackers, Makers & Solopreneurs](https://giftedshark.gumroad.com/l/adsformakersgoogle) | No bullshit, quickstart guide to get customers through Google Ads for your product/service. | 30% OFF with code **BFTONY30** |
-|  🤑 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business and marketing| Link already discounted 75%, valid till Cyber Monday|
 
 [⬆️ Go to Top](#table-of-contents)
 
@@ -426,6 +418,5 @@ Total deals: 0
 |  ⭐ | [Side Projects Making $$$)](https://niftydigits.gumroad.com/l/side-projects) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024 | 20% OFF with code **SAVER2024** |
 | ⭐ | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOs menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY24** |
 | ⭐ | [Ultimate Technical Writing Course](https://technicalwriting.online) | Learn how to leverage the power of technical writing to showcase your expertise, position yourself as a leader, and earn money. | 30% OFF with code **BLACKFRIDAY_2024** |
-| ⭐ | [Paralino](https://paralino.com) | End-to-end encrypted family safety and location sharing app. Protect yourself and your family - no tracking, no profiling, no ads. | 60% OFF on Annual plan<br> 20% OFF on Monthly plan |
 
 [⬆️ Go to Top](#table-of-contents)
